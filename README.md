@@ -10,6 +10,15 @@ This is a simple Android application for a cash register. The app allows users t
 - Make purchases and view purchase history.
 - Restock products to update the inventory.
 
+## Video Demo
+
+To gain a comprehensive understanding of the app's functionality and the underlying Java code, **it is crucial to watch THE video**. In the video, I provide detailed explanations of various components and functionalities that may not be covered in this written documentation.
+
+
+
+https://github.com/Alihazrati99/cash-register-app-android/assets/156400087/04e7c3a7-0a8f-4e73-a251-5ebb41c4f0a2
+
+
 ## Screenshots
 
 <p align="center">
